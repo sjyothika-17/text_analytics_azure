@@ -3,7 +3,7 @@
 !python -m pip install azure-identity
 from openai import AzureOpenAI
 endpoint = "https://project2016-resource.services.ai.azure.com/api/projects/project2016"
-api_key = "DPSAotdfscQz0Ihv4SdoU0vCyp1rgU7FfJdWgDOfHxl88fdxxTO8JQQJ99CKACE1PydXJ3w3AAAAACOGC6XY"
+api_key = "DPSAotdfscQz0IhsbxhjsbjasjsjkgU7FfJdWgDOfHxl88fdxxTO8JQQJ99CKACE1PydXJ3w3AAAAACOGC6XY"
 deployment_name = "gpt-5-mini"
 # 4. Use AzureOpenAI client
 client = AzureOpenAI(
